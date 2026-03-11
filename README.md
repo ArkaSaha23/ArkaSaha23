@@ -10,12 +10,6 @@ Hola🙋🏻‍♂️!!! <br>I welcome you all to my profile😇😇<br>I'm Arka
 - 🔧 Practicing Git & GitHub workflows for collaborative development  
 
 <br clear="right"/>
-### 🚀 What I'm Working On
-
-- 📚 Improving my knowledge of Data Structures and Algorithms  
-- 🌐 Building and contributing to web development projects  
-- 🧠 Learning best practices for clean and maintainable code  
-- 🔧 Practicing Git & GitHub workflows for collaborative development  
 
 <br clear="right"/>
 📌 Goals<br>My goal is to become a skilled software engineer who can design efficient systems, contribute to impactful projects, and continuously grow in the field of technology.<br><br>⭐ I’m always open to learning, collaboration, and new opportunities in software development.
