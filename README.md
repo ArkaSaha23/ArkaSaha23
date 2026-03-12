@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hola🙋🏻‍♂️!!! <br>I welcome you all to my profile😇😇<br>I'm Arka Saha💻<br><br>I am currently pursuing my B.Tech degree in Computer Science Engineering. <br>🌐 I'm passionate Full Stack developer with a strong interest in building efficient and scalable software solutions. I enjoy solving complex problems, learning new technologies, and continuously improving my programming and development skills.<br><br>
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width:100%; width:300px; height:auto;" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width:100%; width:300px; height:auto; margin-right:20px; margin-bottom:20px;" />
 
 ### 🚀 What I'm Working On
 
