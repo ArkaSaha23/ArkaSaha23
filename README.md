@@ -30,11 +30,11 @@ Hola🙋🏻‍♂️!!! <br>I welcome you all to my profile😇😇<br>I'm Arka
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ArkaSaha23&theme=radical&show_icons=true)
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=ArkaSaha23&theme=radical&show_icons=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=ArkaSaha23&theme=radical)
+![Arka's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArkaSaha23&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkaSaha23&layout=compact&theme=radical)
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArkaSaha23&layout=compact&theme=radical)
 
 ## 🐍 Contribution Snake
 
